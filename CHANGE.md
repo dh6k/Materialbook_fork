@@ -1,3 +1,9 @@
+## Materialbook Fork - v1.2.6
+
+<ins>**Changelog:**</ins>
+
+* Fix: Screen rotation no longer force-refreshes the app (upstream #10, `configChanges` on MainActivity).
+
 ## Materialbook Fork - v1.2.5
 
 <ins>**Changelog:**</ins>
